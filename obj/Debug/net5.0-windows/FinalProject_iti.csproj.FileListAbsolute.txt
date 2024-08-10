@@ -1,0 +1,124 @@
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\FinalProject_iti.exe
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\FinalProject_iti.deps.json
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\FinalProject_iti.runtimeconfig.json
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\FinalProject_iti.runtimeconfig.dev.json
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\FinalProject_iti.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\ref\FinalProject_iti.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\FinalProject_iti.pdb
+C:\Users\nesma\source\repos\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.csproj.AssemblyReference.cache
+C:\Users\nesma\source\repos\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.HOME.resources
+C:\Users\nesma\source\repos\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.csproj.GenerateResource.cache
+C:\Users\nesma\source\repos\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesma\source\repos\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.AssemblyInfoInputs.cache
+C:\Users\nesma\source\repos\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.AssemblyInfo.cs
+C:\Users\nesma\source\repos\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.csproj.CoreCompileInputs.cache
+C:\Users\nesma\source\repos\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.dll
+C:\Users\nesma\source\repos\FinalProject_iti\obj\Debug\net5.0-windows\ref\FinalProject_iti.dll
+C:\Users\nesma\source\repos\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.pdb
+C:\Users\nesma\source\repos\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.genruntimeconfig.cache
+C:\Users\nesma\source\repos\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.ADD_NOTE.resources
+C:\Users\nesma\source\repos\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.VIEW.resources
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nesma\source\repos\FinalProject_iti\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nesma\source\repos\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.Edit.resources
+C:\Users\nesma\source\repos\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.delete.resources
+C:\Users\nesma\source\repos\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.addcatg.resources
+C:\Users\nesma\source\repos\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.Properties.Resources.resources
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\FinalProject_iti.exe
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\FinalProject_iti.deps.json
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\FinalProject_iti.runtimeconfig.json
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\FinalProject_iti.runtimeconfig.dev.json
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\FinalProject_iti.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\ref\FinalProject_iti.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\FinalProject_iti.pdb
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\Humanizer.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.csproj.AssemblyReference.cache
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.addcatg.resources
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.ADD_NOTE.resources
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.delete.resources
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.Edit.resources
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.HOME.resources
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.Properties.Resources.resources
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.VIEW.resources
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.csproj.GenerateResource.cache
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.GeneratedMSBuildEditorConfig.editorconfig
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.AssemblyInfoInputs.cache
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.AssemblyInfo.cs
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.csproj.CoreCompileInputs.cache
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\obj\Debug\net5.0-windows\ref\FinalProject_iti.dll
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.pdb
+C:\tasks_iti\final project\finalllll\final_iti_project_finished\FinalProject_iti\obj\Debug\net5.0-windows\FinalProject_iti.genruntimeconfig.cache
